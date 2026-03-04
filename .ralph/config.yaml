@@ -1,0 +1,3 @@
+workflow:
+  namespace: ralph-mock
+model: minimax/MiniMax-M2.5
