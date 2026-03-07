@@ -1,0 +1,7 @@
+name: e2e-resume-run
+description: E2E resume-branch test — pre-existing branch checkout
+requirements:
+  - id: noop
+    category: e2e
+    description: No-op requirement (always passing)
+    passing: true
