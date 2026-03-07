@@ -6,4 +6,4 @@ requirements:
     items:
       - A file named greeting.txt exists in the repository root
       - The file contains the text "Hello from ralph!"
-    passing: false
+    passing: true
