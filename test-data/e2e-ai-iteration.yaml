@@ -1,0 +1,9 @@
+name: e2e-ai-iteration
+description: E2E test — single AI iteration adds a greeting file
+requirements:
+  - category: e2e
+    description: Add a greeting file
+    items:
+      - A file named greeting.txt exists in the repository root
+      - The file contains the text "Hello from ralph!"
+    passing: false
